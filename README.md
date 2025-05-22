@@ -32,7 +32,7 @@ A feature-rich Todo application built with React that combines traditional todo 
 
 ### Prerequisites
 - Node.js (v16 or higher recommended)
-- npm or yarn package manager
+- npm package manager
 
 ### Installation
 
@@ -45,15 +45,11 @@ A feature-rich Todo application built with React that combines traditional todo 
 2. Install dependencies
    ```bash
    npm install
-   # or
-   yarn
    ```
 
 3. Start the development server
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 4. Open your browser and navigate to http://localhost:5173
@@ -103,8 +99,6 @@ A feature-rich Todo application built with React that combines traditional todo 
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 The optimized production build will be available in the `dist` directory.
